@@ -1,0 +1,10 @@
+.heroimg{
+    position: relative;
+}
+.herotext{
+    position: absolute;
+    top:300px;
+    width: 600px;
+    font-size: 20px;
+    padding-left: 20px;
+}
